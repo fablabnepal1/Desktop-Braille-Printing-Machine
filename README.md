@@ -29,8 +29,11 @@ The braille printer consists of different mechanical components such as housing,
 
 Electronic components
 The main controller is TinyG along with other accessories. The basic electronic components are: 
-1. TinyG v8 board 
+1. TinyG v8 board
+![IMG_20231219_122103](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/assets/140875358/e2b8dbd6-7227-4506-8693-3de63a77864b)
+ 
 2. Nema17 motors
+![IMG_20231219_143317](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/assets/140875358/dfcf89a0-e8ca-4e05-8edb-7aafdb7922b2)
 
 
 Operating Steps

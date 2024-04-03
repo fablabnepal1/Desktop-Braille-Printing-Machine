@@ -1,4 +1,4 @@
-﻿Desktop Braille Printer
+##﻿Desktop Braille Printer##
 
 Desktop braille printing machine is designed to print braille script on a piece of paper. The main mechanism is embossing dots in the paper using a pointed pin type actuator.
 

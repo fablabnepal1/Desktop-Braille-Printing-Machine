@@ -41,7 +41,7 @@ The main controller is TinyG along with other accessories. The basic electronic 
 After the machine has been assembled, the following steps are done to print on braille script:
 
 
-1. Use Braillerap to generate Gcode  
+1. Use Braillerap (https://crocsg.github.io/BrailleRap/) to generate Gcode  
 2. Conditioning and reviewing Gcode for correctness.
 3. Power the braille printer and connect it to the interface.
 4. Load Gcode into the interface and send it to the machine.

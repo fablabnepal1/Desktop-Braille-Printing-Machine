@@ -15,8 +15,6 @@ See these links for more details
 **Mechanical Components **
   
 The braille printer consists of different mechanical components such as housing, belts, and pulleys.
-  
-
 
 1. System Box and Housing
 2. Controller box
@@ -39,6 +37,7 @@ The main controller is TinyG along with other accessories. The basic electronic 
 
 
 **Operating Steps**
+
 After the machine has been assembled, the following steps are done to print on braille script:
 
 

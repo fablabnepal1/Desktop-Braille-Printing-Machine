@@ -17,30 +17,32 @@ Here are some major features of the braille printing machine.
 
 **Mechanical Systems**
   
-The braille printer consists of different mechanical components such as housing, belts, and pulleys.
+The braill9e printer consists of different mechanical components such as housing, belts, and pulleys.
 
-1. System Box and Housing
-2. Shafts and  Paper Rollers
-3. Bearing and Housing
-4. Pulley and Belts
-5. Rails and Pulleys
-6. Linear bearing and Housing
-7. Linear Actuator Support
+1. [System Box and Housing](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Mechanical-Systems#1-system-box-and-housing)
+2. [Shafts and  Paper Rollers](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Mechanical-Systems#2-shafts-and--paper-rollers)
+3. [Bearing and Housing](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Mechanical-Systems#3-bearing-and-housing)
+4. [Pulley and Belts](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Mechanical-Systems#4-pulley-and-belts)
+5. [Rails and Pulleys](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Mechanical-Systems#5-rails-and-pulleys)
+6. [Linear bearing and Housing](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Mechanical-Systems#6-linear-bearing-and-housing)
+7. [Other mechanical parts](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Mechanical-Systems#7-other-mechanical-parts)
 
 **Electronic Systems**
 
 The main controller is TinyG along with other accessories. The basic electronic components are: 
 
-1. TinyG v8 board
-2. Controller box
-3. Nema17 motors and parameters
-4. Solenoid Linear actuator
-5. Relay switch
+1. [TinyG v8 board](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Electronics-Systems#1-tinyg-v8-board)
+2. [Controller box](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Electronics-Systems#2-controller-box)
+3. [Nema17 motors and parameters](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Electronics-Systems#3-nema17-motors-and-parameters)
+4. [Solenoid Linear actuator](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Electronics-Systems#3-nema17-motors-and-parameters)
+5. [Relay switch](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Electronics-Systems#5-relay-switch)
+6. [Limit Switch](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Electronics-Systems#6-limit-switch)
 
 **Working with Interfaces**
-1. Coolterm
-2. Chillipeppr
-3. CNCJS
+1. [Coolterm](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Working-with-Interfaces#coolterm)
+2. [Chillipeppr](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Working-with-Interfaces#chillipeppr)
+3. [CNCJS](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Working-with-Interfaces#cncjs)
+   
 
-**Tests and Refinements**
+[**Tests and Refinements**](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/Tests-and-Refinements)
 

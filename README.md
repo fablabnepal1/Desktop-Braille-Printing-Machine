@@ -11,6 +11,8 @@ Here are some major features of the braille printing machine.
 * A solenoid linear actuator is used to emboss braille dots into the paper.
 * Use of chillipeppr to visualize work on progress.
 
+**Click Here for the basic setup and operation manual**
+
 
 **Mechanical Systems**
   

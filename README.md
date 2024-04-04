@@ -10,23 +10,34 @@ Here are some major features of the braille printing machine.
 * Accepts Gcode from USB ports and interprets it.
 * A solenoid linear actuator is used to emboss braille dots into the paper.
 * Use of chillipeppr to visualize work on progress.
-See these links for more details
 
-**Mechanical Components **
+
+**Mechanical Systems**
   
 The braille printer consists of different mechanical components such as housing, belts, and pulleys.
 
 1. System Box and Housing
-2. Controller box
-3. Shaft, Pulley and Belts
-4. Supporting Parts 
+2. Shafts and  Paper Rollers
+3. Bearing and Housing
+4. Pulley and Belts
+5. Rails and Pulleys
+6. Linear bearing and Housing
+7. Linear Actuator Support
 
-
-**Electronic components**
+**Electronic Systems**
 
 The main controller is TinyG along with other accessories. The basic electronic components are: 
+
 1. TinyG v8 board
-2. Nema17 motors
-3. Relay switch
-4. Solenoid Linear actuators
+2. Controller box
+3. Nema17 motors and parameters
+4. Solenoid Linear actuator
+5. Relay switch
+
+**Working with Interfaces**
+1. Coolterm
+2. Chillipeppr
+3. CNCJS
+
+**Tests and Refinements**
 

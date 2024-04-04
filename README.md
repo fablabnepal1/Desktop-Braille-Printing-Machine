@@ -1,8 +1,9 @@
 # Desktop Braille Printer
 
-Desktop braille printing machine is designed to print braille script on a piece of paper. The main mechanism is embossing dots in the paper using a pointed pin type actuator.
+Desktop braille printing machine is designed to print braille script on a piece of paper for viusally impaired people. The main mechanism is embossing dots in the paper using a pointed pin type actuator. The dots are of standard size which are describe here in [detailed](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/wiki/What-is-a-Braille-%3F).
 
 ![IMG-20240329-WA0007](https://github.com/fablabnepal1/Desktop-Braille-Printing-Machine/assets/140875358/967ec639-ef22-453c-ac73-73f3ae72a742)
+
 
 Here are some major features of the braille printing machine.
 * Use of tinyG(ATMLE xmega192a3u) hardware as a controller for the machine.
